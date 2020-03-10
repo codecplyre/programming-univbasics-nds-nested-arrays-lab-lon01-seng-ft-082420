@@ -39,7 +39,3 @@ def matrix_update(matrix, row, column, new_value)
   # Update the matrix location at that row and column to have the value of new_value
   # Return the updated matrix
 end
-aoa = [1, 2, 3]
-aob = [1, 2, 3]
-
-puts aoa + aob
